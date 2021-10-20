@@ -12,21 +12,21 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-domain                   : gamma-software.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+domain                   : "gamma-software.github.io"      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : &title "Coding and Photography Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url: https://gamma-software.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /gamma-software.github.io/
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Valentin RUDLOFF"
+description              : "This is the " *title " of Valentin RUDLOFF"
+url                      : "https://gamma-software.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl                  : "/gamma-software.github.io"
+repository               : "Gamma-Software/gamma-software.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,18 +103,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Valentin RUDLOFF"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Cergy, France"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:valentin.rudloff.perso@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://gamma-software.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Gamma-Software"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Gamma-Software"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -208,6 +208,9 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+portfolio:
+  output: true
+  permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -289,3 +292,14 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      show_date: true
+      date_format: "%Y-%m-%d"
