@@ -154,6 +154,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -187,6 +188,19 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
+
+# Collections
+collections:
+  coding:
+    output: true
+    permalink: /:collection/:path/
+  photography:
+    output: true
+    permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 # Conversion
 markdown: kramdown
@@ -276,14 +290,20 @@ compress_html:
 
 # Defaults
 defaults:
-  # _photography
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
+  # _photography
+  - scope:
+      path: ""
+      type: photography
+    values:
+      layout: single
+      author_profile: true
       comments: # true
       share: true
       related: true
@@ -293,6 +313,19 @@ defaults:
   - scope:
       path: ""
       type: coding
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
+  # _blog
+  - scope:
+      path: ""
+      type: blog
     values:
       layout: single
       author_profile: true
