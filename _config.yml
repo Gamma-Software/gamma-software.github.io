@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : &title "Coding and Photography Portfolio"
+title                    : "Coding and Photography Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Valentin RUDLOFF"
-description              : "This is the " *title " of Valentin RUDLOFF"
+description              : "This is the Coding and Photography Portfolio of Valentin RUDLOFF"
 url                      : "https://gamma-software.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl                  : "/gamma-software.github.io"
+#baseurl                  : "/gamma-software.github.io"
 repository               : "Gamma-Software/gamma-software.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
