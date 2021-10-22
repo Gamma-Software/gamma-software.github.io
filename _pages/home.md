@@ -19,15 +19,18 @@ He loves learning... programming, conceptualise/build/program robots, fly quadco
 # Where does he come from
 He lived in Germany for 4 years when he was little before grewing up in a working class neighbourhood near Le Mans, France. He was raised by a loving mother and father. His mother is a Agricultural Ministerial research fellow. His father is a Molding Expert Engineer.
 
-# His projects
+# His personnal projects
 Valentin founded in 2011 at 17-year-old a mobile application/game developpement company called Gamma-Software and an Android app was sponsored by [Clairefontaine](https://www.clairefontaine.com/) and another was downloaded by more than a million players as it was a Game (Minetower)
 
 He works on several projects and they can be found on it's Github [Gamma-Software](https://github.com/Gamma-Software)
 
-He thrives at learning new things and discover new fields of expertise.
+He thrives at learning new things and discovering new fields of expertise.
+
+# His professionnal projects
+AMD TODO
 
 # What's its future like
-He definitly will continue to master its skills to become more and more confident in them. TO BE CONTINUED
+He definitly will continue to master its skills to become more and more confident in them. TODO
 
 # My Github stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gamma-software&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])

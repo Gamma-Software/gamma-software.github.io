@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Coding and Photography Project Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Valentin Rudloff # site tagline that appears below site title in masthead
 name                     : "Valentin RUDLOFF"
 description              : "This is the Coding and Photography Project Portfolio of Valentin RUDLOFF"
 url                      : "https://gamma-software.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
