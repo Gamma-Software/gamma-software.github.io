@@ -10,7 +10,6 @@ author_profile: true
 
 Valentin Daniel Rudloff is a 27-year-old engineer who enjoys developping its skills at programming, photographing, engineering. He is pragmatic and commited, but can also be very bounded and a bit impatient.
 
-# Work
 He is French and speaks English and German. He has a post-graduate in transport engineering at Estaca specialized in Embeeded Software. He taught himself programming, making robots and he's now a Software Release Manager at [Navya](https://www.navya.tech).
 
 # Hobbies
@@ -19,15 +18,25 @@ He loves learning... programming, conceptualise/build/program robots, fly quadco
 # Where does he come from
 He lived in Germany for 4 years when he was little before grewing up in a working class neighbourhood near Le Mans, France. He was raised by a loving mother and father. His mother is a Agricultural Ministerial research fellow. His father is a Molding Expert Engineer.
 
-# His personnal projects
+# Work
+I started my professionnal carrer in the company [Navya](https://www.navya.tech) as a Software Engineer in the Driving Team. I wanted to know more about the technology behind the autonomous mini-bus manufactured by Navya in Lyon. I took the train from Paris to Lyon several time a month to test with my team new software. I learned a lot during this period and as time went by I began to emancipate myself and start some projects.
+
+## Professionnal projects 
+### Vehicule Simulation
+
+
+### AMD
+TODO
+
+### Tract
+TODO
+
+## His personnal projects
 Valentin founded in 2011 at 17-year-old a mobile application/game developpement company called Gamma-Software and an Android app was sponsored by [Clairefontaine](https://www.clairefontaine.com/) and another was downloaded by more than a million players as it was a Game (Minetower)
 
 He works on several projects and they can be found on it's Github [Gamma-Software](https://github.com/Gamma-Software)
 
 He thrives at learning new things and discovering new fields of expertise.
-
-# His professionnal projects
-AMD TODO
 
 # What's its future like
 He definitly will continue to master its skills to become more and more confident in them. TODO
