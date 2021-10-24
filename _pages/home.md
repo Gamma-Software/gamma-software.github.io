@@ -29,7 +29,7 @@ I started my professionnal carrer in the company [Navya](https://www.navya.tech)
 TODO
 
 ### Tract
-TODO
+When I was still a software engineer I wanted to work on a new project, Autonom Tract or "Tract". The Tract is an Automatic guided vehicle or AGV designed to operate on private company such as Geodis at transporting goods or Air France transporting luggages in Airports. TODO
 
 ## His personnal projects
 Valentin founded in 2011 at 17-year-old a mobile application/game developpement company called Gamma-Software and an Android app was sponsored by [Clairefontaine](https://www.clairefontaine.com/) and another was downloaded by more than a million players as it was a Game (Minetower)
