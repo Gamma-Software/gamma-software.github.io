@@ -26,7 +26,7 @@ I started my professionnal carrer in the company [Navya](https://www.navya.tech)
 
 
 ### AMD
-TODO
+AMD stands for Assisted Manual Driving and help the operator (yes we still need an actual human operator in an Autonomous vehicle) to in the manual operations with indicator of the suroundings and take control over the speed of the machine if there is real dangers and the operator does not take correct measures. TODO
 
 ### Tract
 When I was still a software engineer I wanted to work on a new project, Autonom Tract or "Tract". The Tract is an Automatic guided vehicle or AGV designed to operate on private company such as Geodis at transporting goods or Air France transporting luggages in Airports. TODO
