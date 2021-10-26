@@ -1,9 +1,9 @@
 ---
-title: Coding projects
+title: Projects
 #layout: collection
 layout: default
-permalink: /coding/
-collection: coding
+permalink: /projects/
+collection: projects
 entries_layout: grid
 classes: wide
 ---
