@@ -27,8 +27,8 @@ I worked on [Vehicule Cinematic/Dynamic Simulation](projects), [Assisted Manual 
 # His personnal projects
 I created some projects such as [Air model](projects), [Minetower](projects), [Cube Escape](projects)
 
-# What's its future like
-I definitly will continue to master its skills to become more and more confident in them. TODO
+# What's my future like
+I definitly will continue to master my skills to become more and more confident in them. TODO
 
 # My Github stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gamma-software&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
