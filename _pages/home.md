@@ -15,20 +15,20 @@ I am French and speak English and German. I post-graduated in transport engineer
 # Hobbies
 I love learning... programming, conceptualise/build/program robots, fly quadcopters, photographing beautiful landscapes, hiking tall and steep mountains.
 
-# Where does he come from
+# Where do I come from
 I lived in Germany for 4 years when I was little before grewing up in a working class neighbourhood near Le Mans, France. My mother is a Agricultural Ministerial research fellow. And my father is a Molding Expert Engineer.
 
 # Career
-I started my professionnal carrer in the company [Navya](https://www.navya.tech) as a Software Engineer in the Driving Team. I wanted to know more about the technology behind the autonomous mini-bus manufactured by Navya in Lyon. I took the train from Paris to Lyon several time a month to test with my team new software. I learned a lot during this period and as time went by I began to emancipate myself and start some projects.
+I started my professionnal carrer in the company [Navya](https://www.navya.tech) as a Software Engineer in the Driving Team. I wanted to know more about the technology behind the autonomous mini-bus manufactured by Navya in Lyon. I took the train from Paris to Lyon several time a month to test with my team new software. I learned a lot during this period and as time went by I began to emancipate myself and start my own professionnal projects.
 
 # Professionnal projects 
 I worked on [Vehicule Cinematic/Dynamic Simulation](projects), [Assisted Manual Driving](projects), [Tract](projects) TODO
 
-# His personnal projects
+# My personnal projects
 I created some projects such as [Air model](projects), [Minetower](projects), [Cube Escape](projects)
 
 # What's my future like
-I definitly will continue to master my skills to become more and more confident in them. TODO
+I definitly will continue to master my skills to become more and more confident in them. I will strengthen my knowledge in the Quality Assurance methods, processes, tools. My desire to build up a product thanks to technical solution that turns into a business is undoubtly in the back of my head.
 
 # My Github stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gamma-software&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
