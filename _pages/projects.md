@@ -1,7 +1,7 @@
 ---
 title: Projects
-#layout: collection
-layout: default
+layout: collection
+#layout: default
 permalink: /projects/
 collection: projects
 entries_layout: grid
