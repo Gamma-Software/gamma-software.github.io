@@ -1,14 +1,14 @@
 ---
 categories:
-- projects
+  - projects
 tags:
-- content
-- css
-- edge case
-- lists
-- markup
-- projects
-- code
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
+  - projects
+  - code
 title: Dumb things to remember
 ---
 
