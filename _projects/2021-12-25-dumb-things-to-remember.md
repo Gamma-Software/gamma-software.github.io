@@ -1,29 +1,31 @@
 ---
 categories:
-  - projects
+- projects
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-  - projects
-  - code
+- content
+- css
+- edge case
+- lists
+- markup
+- projects
+- code
 title: Dumb things to remember
 ---
 
-# Dumb Things to Remember
+Dumb Things to Remember
+=======================
 
 This repository list all the dumb things that I encoutered and must be
 noted on a notepad (this is actually the notepad)
 
-## Docker
+Docker
+------
 
 ### DNS
 
 I installed on my server a DNS resolver. The docker engine parameter
 must be updated to add the ip of the dns server. In the
-*/etc/docker/daemon.json* file.
+*/etc/docker/daemon.json* file
 
 ``` {.json}
 {
