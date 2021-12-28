@@ -18,6 +18,8 @@ Dumb Things to Remember
 This repository list all the dumb things that I encoutered and must be
 noted on a notepad (this is actually the notepad)
 
+This must be removed
+
 Docker
 ------
 
@@ -25,7 +27,7 @@ Docker
 
 I installed on my server a DNS resolver. The docker engine parameter
 must be updated to add the ip of the dns server. In the
-*/etc/docker/daemon.json* file
+*/etc/docker/daemon.json* file.
 
 ``` {.json}
 {
