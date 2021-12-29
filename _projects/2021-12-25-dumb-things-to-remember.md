@@ -44,3 +44,47 @@ Just override the data-root parameter in */etc/docker/daemon.json*
   "data-root": "/mnt/data/docker_images"
 }
 ```
+
+Bash
+----
+
+### Time your scripts
+
+You can use the `time` command to easily get the execution time of a
+script.\
+For instance you want to know how long it takes to execute this command
+`ls -l` simply write:
+
+``` {.bash}
+time ls -l
+```
+
+The result will be something like:
+
+    real    0m0.038s
+    user    0m0.000s
+    sys     0m0.000s
+
+More obvious one will be the command `sleep 1`, the result will be:
+
+    real    0m1,003s
+    user    0m0,001s
+    sys     0m0,002s
+
+### Time your python scripts
+
+Python scripts can also be timed with the command `time`. For instance,
+if you want to know how long it takes to execute this command
+`python3 -c "import time; time.sleep(1)"` simply write:
+
+``` {.bash}
+time python3 -c "import time; time.sleep(1)"
+```
+
+The result will be something like:
+
+``` {.bash}
+real    0m1.003s
+user    0m0.001s
+sys     0m0.002s
+```
