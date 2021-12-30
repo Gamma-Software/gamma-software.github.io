@@ -88,3 +88,13 @@ real    0m1.003s
 user    0m0.001s
 sys     0m0.002s
 ```
+
+### Make fun of executing a script
+
+mpv audio\_file.wav &
+<script>
+
+You can also make a sound based on the success of failure of the script
+as is...
+
+You can also show an animation when the script successeed
