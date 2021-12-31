@@ -98,3 +98,24 @@ You can also make a sound based on the success of failure of the script
 as is...
 
 You can also show an animation when the script successeed
+
+``` {.bash}
+function elevator {
+    pid=$!
+    mpv ~/elevator.mp3 --loop &> /dev/null &
+    while [ 1 ]
+    do
+        ps -p $pid > /dev/null
+        if [[ $? -ne 0 ]]; then
+            pkill -9 mpv
+            break
+        fi
+        sleep 1
+    done
+}
+
+function elevatorNwarnme {
+    elevator
+    mpv ~/success-sound-effect.mp3 &> /dev/null
+}
+```
