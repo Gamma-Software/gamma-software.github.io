@@ -119,3 +119,8 @@ function elevatorNwarnme {
     mpv ~/success-sound-effect.mp3 &> /dev/null
 }
 ```
+
+Check the port opened in the current public ip
+----------------------------------------------
+
+https://dnschecker.org/port-scanner.php?query=82.65.214.10
